@@ -1,5 +1,5 @@
 ---
-
+layout: "../../layout/BlogPostLayout.astro"
 title: Building an Astro Post Tag Component
 date: 2022-12-06
 author: Anna Dixon
