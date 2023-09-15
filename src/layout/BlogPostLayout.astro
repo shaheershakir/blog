@@ -25,7 +25,7 @@ const relatedPosts = formattedPosts
 
 ---
 
-<MainLayout {title} {description}>
+<MainLayout {title} {description} image={frontmatter.image} {frontmatter} robots={frontmatter.robots} >
 <PostHeader
     {title}
     {description}
